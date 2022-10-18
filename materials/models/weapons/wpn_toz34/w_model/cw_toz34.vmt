@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$baseTexture "models\weapons\wpn_toz34\w_model\cw_toz34"
+	$bumpmap "models\weapons\wpn_toz34\w_model\cw_toz34_n"
+ 
+        $phong  "1"
+        $phongboost  "1"
+        $phongfresnelranges     "[1 1 1]"
+        $phongexponent 20
+        $nocull  1	
+}

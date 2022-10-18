@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$baseTexture "models\attachments\ac10632\ac10632_scope_glass"
+	$translucent 1
+
+	$nodecal 1
+
+	$model 1	
+}

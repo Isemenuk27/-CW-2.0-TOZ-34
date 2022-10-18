@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models\weapons\wpn_toz34\act_arm_novice"	
+	$bumpmap    "models\weapons\wpn_toz34\act_arm_novice_n"
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.5"
+	"$rimlightexponent" "4"
+}

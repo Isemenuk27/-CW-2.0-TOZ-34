@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/wpn_toz34/wpn_toz34_sk2"
+	$bumpmap "models/weapons/wpn_toz34/wpn_toz34_n"
+	$surfaceprop Weapon
+
+	$model 1
+}

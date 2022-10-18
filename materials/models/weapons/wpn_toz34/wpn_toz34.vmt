@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/wpn_toz34/wpn_toz34"
+	$bumpmap "models/weapons/wpn_toz34/wpn_toz34_n"
+	$surfaceprop Weapon
+
+	$envmap "env_cubemap"
+	$envmapmask "models/weapons/wpn_toz34/wpn_toz34_s"
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.5"
+	"$rimlightexponent" "4"
+}
